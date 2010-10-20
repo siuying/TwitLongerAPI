@@ -1,0 +1,6 @@
+[submodule "External/touchxml"]
+	path = External/touchxml
+	url = http://github.com/schwa/TouchXML.git
+[submodule "External/asi-http-request"]
+	path = External/asi-http-request
+	url = http://github.com/pokeb/asi-http-request.git
