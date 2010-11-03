@@ -266,20 +266,24 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateExpansionKey</key>
 							<array>
 								<string>29B97314FDCFA39411CA2CEA</string>
+								<string>541CA340126ED169000B58C0</string>
+								<string>541CA36C126ED1A1000B58C0</string>
+								<string>541CA36A126ED189000B58C0</string>
+								<string>541CA343126ED184000B58C0</string>
 								<string>541CA335126ECEF7000B58C0</string>
 								<string>080E96DDFE201D6D7F000001</string>
 								<string>29B97317FDCFA39411CA2CEA</string>
 								<string>29B97323FDCFA39411CA2CEA</string>
 								<string>19C28FACFE9D520D11CA2CBB</string>
 								<string>1C37FBAC04509CD000000102</string>
-								<string>1C37FAAC04509CD000000102</string>
 								<string>1C37FABC05509CD000000102</string>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>12</integer>
-									<integer>11</integer>
+									<integer>40</integer>
+									<integer>21</integer>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -303,7 +307,7 @@
 							<real>186</real>
 						</array>
 						<key>RubberWindowFrame</key>
-						<string>883 136 1614 1272 0 0 2560 1418 </string>
+						<string>883 146 1614 1272 0 0 2560 1418 </string>
 					</dict>
 					<key>Module</key>
 					<string>PBXSmartGroupTreeModule</string>
@@ -319,7 +323,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>TwitLongerAPIViewController.m</string>
+								<string>CXMLNode_PrivateExtensions.m</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -327,19 +331,13 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>TwitLongerAPIViewController.m</string>
+										<string>CXMLNode_PrivateExtensions.m</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>541CA49A126EE1C6000B58C0</string>
+										<string>54A258B3128101E8000DE435</string>
 										<key>history</key>
 										<array>
-											<string>541CA400126ED661000B58C0</string>
-											<string>541CA401126ED661000B58C0</string>
-											<string>541CA414126ED8C9000B58C0</string>
-											<string>541CA415126ED8C9000B58C0</string>
-											<string>541CA41A126ED929000B58C0</string>
-											<string>541CA421126ED988000B58C0</string>
 											<string>541CA43A126EDBBC000B58C0</string>
 											<string>541CA46E126EE012000B58C0</string>
 											<string>541CA478126EE0C6000B58C0</string>
@@ -347,7 +345,24 @@
 											<string>541CA481126EE0F3000B58C0</string>
 											<string>541CA482126EE0F3000B58C0</string>
 											<string>541CA48E126EE15D000B58C0</string>
-											<string>541CA48F126EE15D000B58C0</string>
+											<string>54A258A1128101E8000DE435</string>
+											<string>54A258A2128101E8000DE435</string>
+											<string>54A258A3128101E8000DE435</string>
+											<string>54A258A4128101E8000DE435</string>
+											<string>54A258A5128101E8000DE435</string>
+											<string>54A258A6128101E8000DE435</string>
+											<string>54A258A7128101E8000DE435</string>
+											<string>54A258A8128101E8000DE435</string>
+											<string>54A258A9128101E8000DE435</string>
+											<string>54A258AA128101E8000DE435</string>
+											<string>54A258AB128101E8000DE435</string>
+											<string>54A258AC128101E8000DE435</string>
+											<string>54A258AD128101E8000DE435</string>
+											<string>54A258AE128101E8000DE435</string>
+											<string>54A258AF128101E8000DE435</string>
+											<string>54A258B0128101E8000DE435</string>
+											<string>54A258B1128101E8000DE435</string>
+											<string>54A258B2128101E8000DE435</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -359,14 +374,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1406, 1045}}</string>
+								<string>{{0, 0}, {1406, 1042}}</string>
 								<key>RubberWindowFrame</key>
-								<string>883 136 1614 1272 0 0 2560 1418 </string>
+								<string>883 146 1614 1272 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>1045pt</string>
+							<string>1042pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -379,14 +394,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 1050}, {1406, 181}}</string>
+								<string>{{0, 1047}, {1406, 184}}</string>
 								<key>RubberWindowFrame</key>
-								<string>883 136 1614 1272 0 0 2560 1418 </string>
+								<string>883 146 1614 1272 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>181pt</string>
+							<string>184pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -405,9 +420,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>541CA338126ECF01000B58C0</string>
+				<string>54A258951281017C000DE435</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>541CA339126ECF01000B58C0</string>
+				<string>54A258961281017C000DE435</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -545,13 +560,11 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>1C78EAAD065D492600B07095</string>
-		<string>1CD10A99069EF8BA00B06720</string>
 		<string>541CA33B126ECF01000B58C0</string>
-		<string>/Users/siuying/Documents/workspace/Working/twitlonger/TwitLongerAPI/TwitLongerAPI.xcodeproj</string>
+		<string>/Users/siuying/Documents/workspace/OpenSource/TwitLongerAPI/TwitLongerAPI.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
-	<string>883 136 1614 1272 0 0 2560 1418 </string>
+	<string>883 146 1614 1272 0 0 2560 1418 </string>
 	<key>WindowToolsV3</key>
 	<array>
 		<dict>
@@ -572,7 +585,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>TwitLongerAPIViewController.m</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -630,7 +643,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>541CA33B126ECF01000B58C0</string>
-				<string>541CA33C126ECF01000B58C0</string>
+				<string>54A258971281017C000DE435</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
